@@ -1,0 +1,28 @@
+<html ng-app="mangaApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Introme</title> 
+	<base href="/">
+	<!-- 
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> 
+	<script src="https://code.angularjs.org/1.4.3/angular.min.js"></script>
+	<script src="https://code.angularjs.org/1.4.3/angular-route.min.js"></script>
+	<script src="https://code.angularjs.org/1.4.3/angular-resource.min.js"></script>
+	 -->
+
+	<link rel="stylesheet" href="/css/bootstrap.min.css"> 
+	<link rel="stylesheet" href="/css/styles.css"> 
+	<script src="/js/angular.min.js"></script>
+	<script src="/js/angular-route.js"></script>
+	<script src="/js/angular-resource.js"></script>
+	<script src="/js/app.js"></script>
+</head>
+<body ng-controller="MainCtrl">
+	<ul class="list-inline">
+		<li><a href="/">home</a></li>
+		<li><a href="/popular">popular</a></li>
+		<li><a href="/manga">details</a></li>
+	</ul>
+	<div ng-view></div>
+</body>
+</html>
