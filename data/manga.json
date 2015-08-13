@@ -1,0 +1,721 @@
+{
+  "end": 50,
+  "manga": [
+    {
+      "a": "kanai-kun",
+      "c": [
+        "Drama",
+        "Slice of Life"
+      ],
+      "h": 208,
+      "i": "54430be945b9ef3a6d5818cc",
+      "im": "05/05d5df58e440371496b217f94cc4894abeba1671bd9edf0e7cd774a1.jpg",
+      "ld": 1420483442.0,
+      "s": 2,
+      "t": "Kanai-kun"
+    },
+    {
+      "a": "untouchable",
+      "c": [],
+      "h": 6812,
+      "i": "53723be945b9ef5a0b1d27db",
+      "im": null,
+      "ld": 1436813301.0,
+      "s": 1,
+      "t": "unTOUCHable"
+    },
+    {
+      "a": "inu-mo-kuwanai",
+      "c": [
+        "Drama",
+        "Psychological",
+        "School Life",
+        "Yaoi"
+      ],
+      "h": 0,
+      "i": "5372392b45b9ef5a0b1d2209",
+      "im": "d6/d6e8037969cc382f33e5a153871b522631f85eed538bd4d77cc2f928.png",
+      "s": 2,
+      "t": "Inu mo Kuwanai"
+    },
+    {
+      "a": "uncontrol",
+      "c": [
+        "Drama",
+        "Romance"
+      ],
+      "h": 156,
+      "i": "55a1a17f719a1609004ad595",
+      "im": "b3/b3572d5b353c030221c86e93094325936e251240d8fb41fe69eb3af4.png",
+      "ld": 1436735835.0,
+      "s": 2,
+      "t": "Uncontrol"
+    },
+    {
+      "a": "unbalance-ni-koishite",
+      "c": [
+        "Romance",
+        "School Life",
+        "Shoujo"
+      ],
+      "h": 0,
+      "i": "53723be545b9ef5a0b1d27d5",
+      "im": "df/df2d575e58cab5542ec8d5fdd02daed15c2e711a84b937c7f7b15ab9.jpg",
+      "s": 2,
+      "t": "Unbalance ni Koishite"
+    },
+    {
+      "a": "jigokusei-remina",
+      "c": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Sci-fi",
+        "Seinen",
+        "Tragedy"
+      ],
+      "h": 1066,
+      "i": "55a19b9b719a1609004acf36",
+      "im": "35/35de5362568bcb2bf0d011659d43ca1879abe8a80054c039bf41c150.png",
+      "ld": 1436693997.0,
+      "s": 2,
+      "t": "Jigokusei Remina"
+    },
+    {
+      "a": "shura-no-mon-iden---fudekage",
+      "c": [
+        "Drama",
+        "School Life",
+        "Shounen",
+        "Sports"
+      ],
+      "h": 14118,
+      "i": "55621a14719a1692e3dc7de1",
+      "im": "a3/a3d3e586aa5fe75028a3cbc71ab5368cbad2b8a027859e48d177f3e8.png",
+      "ld": 1437510404.0,
+      "s": 1,
+      "t": "Shura no Mon Iden - Fudekage"
+    },
+    {
+      "a": "musketeer",
+      "c": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Martial Arts",
+        "Shounen"
+      ],
+      "h": 2262,
+      "i": "54430c9d45b9ef3a6d581a47",
+      "im": "c9/c90288076a022ce3cb81365ebe2061f2d42985743676f8ab998f9dd3.jpg",
+      "ld": 1433640287.0,
+      "s": 1,
+      "t": "Musketeer"
+    },
+    {
+      "a": "suwajiku-princess-story",
+      "c": [
+        "Fantasy",
+        "Gender Bender",
+        "Supernatural",
+        "Yuri"
+      ],
+      "h": 26,
+      "i": "544d294b45b9efd98ab65194",
+      "im": "dc/dc67410a0e406a8e0cc34716a12a30164bf39e494c6054a32acdcf6e.jpg",
+      "ld": 1420450305.0,
+      "s": 1,
+      "t": "Suwajiku Princess Story"
+    },
+    {
+      "a": "free-dj---the-start-of-our-romance",
+      "c": [
+        "Doujinshi"
+      ],
+      "h": 0,
+      "i": "55a19a1c719a1609004acd8a",
+      "im": "c9/c9ce7a76f9a4fbd6c1d41758247840c17da22c05ed0fa1599066a11d.png",
+      "s": 1,
+      "t": "Free! dj - The Start of Our Romance"
+    },
+    {
+      "a": "dragon-ball-super",
+      "c": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Sci-fi",
+        "Shounen"
+      ],
+      "h": 26910,
+      "i": "558802a9719a167572253c6d",
+      "im": "9f/9f89e4255b1d30ef242641072e0f14b282e6142afccebb3db9645a98.jpg",
+      "ld": 1437067933.0,
+      "s": 1,
+      "t": "Dragon Ball Super"
+    },
+    {
+      "a": "dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-gaiden---sword-oratoria",
+      "c": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Shounen",
+        "Supernatural"
+      ],
+      "h": 14430,
+      "i": "55a19992719a1609004acd13",
+      "im": "1d/1d82dd12bb47b8c23604bbf478a0bcf5cb4a118e8dcc93b07d8e05fc.jpg",
+      "ld": 1439318835.0,
+      "s": 1,
+      "t": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria"
+    },
+    {
+      "a": "enigme",
+      "c": [
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Shounen",
+        "Supernatural"
+      ],
+      "h": 1274,
+      "i": "55a199a7719a1609004acd2b",
+      "im": "fc/fc9bacb337e4f1c58b0397fe7e2c6882085404d154902a07685f3a26.jpg",
+      "ld": 1436681525.0,
+      "s": 2,
+      "t": "Enigme"
+    },
+    {
+      "a": "udon-no-onna",
+      "c": [
+        "Drama",
+        "Josei",
+        "Romance",
+        "School Life",
+        "Slice of Life"
+      ],
+      "h": 0,
+      "i": "55a1a17b719a1609004ad58f",
+      "im": "b8/b82e8dfc8ed1704c21bf4279aa5c984b02bbc14df64da8bdc9ae23f5.jpg",
+      "s": 2,
+      "t": "Udon no Onna"
+    },
+    {
+      "a": "urthotics",
+      "c": [
+        "Action",
+        "Sci-fi",
+        "Seinen"
+      ],
+      "h": 78,
+      "i": "544ae4ab45b9efb061505cf1",
+      "im": "3b/3b71be8a4ced01e84e912252b47e8bde4eeb959a62cbf9d83c2c89da.jpg",
+      "ld": 1414334285.0,
+      "s": 1,
+      "t": "Urthotics"
+    },
+    {
+      "a": "ikumen-after",
+      "c": [
+        "Comedy",
+        "Drama",
+        "Slice of Life"
+      ],
+      "h": 0,
+      "i": "55a19b6b719a1609004acefa",
+      "im": "05/05b50468b3803b0651483f49b7fcb8aba8e10ac11c9f1cf426b127e6.png",
+      "s": 2,
+      "t": "Ikumen After"
+    },
+    {
+      "a": "shoujo-shoujo-shoujo-na-no",
+      "c": [
+        "Drama",
+        "Romance",
+        "School Life",
+        "Shoujo"
+      ],
+      "h": 1534,
+      "i": "55702867719a1660900c121e",
+      "im": "d0/d0c566db927cdd1124e78dbc9da102a5aeb4929cf41d71f7f00b8c30.jpg",
+      "ld": 1433416124.0,
+      "s": 2,
+      "t": "Shoujo, Shoujo, Shoujo na no"
+    },
+    {
+      "a": "4-god-ranger",
+      "c": [
+        "Fantasy",
+        "Martial Arts",
+        "Shounen",
+        "Supernatural",
+        "Tragedy"
+      ],
+      "h": 11483,
+      "i": "53cb91bc45b9ef178535d8ee",
+      "im": "08/089ba59d3774a9031230f7c276d4eda8808919814fb903163df52950.jpg",
+      "ld": 1438208237.0,
+      "s": 1,
+      "t": "4 God Ranger"
+    },
+    {
+      "a": "fullmetal-alchemist-dj---tranquilizer",
+      "c": [
+        "Doujinshi",
+        "Yaoi"
+      ],
+      "h": 0,
+      "i": "55a19a36719a1609004acda2",
+      "im": "12/12e22b75ead56565823e19ef23bcbc0c7a4ac043759efa54b47e2c23.png",
+      "s": 1,
+      "t": "Fullmetal Alchemist dj - Tranquilizer"
+    },
+    {
+      "a": "oooku",
+      "c": [
+        "Drama",
+        "Harem",
+        "Historical",
+        "Mature",
+        "Romance",
+        "Shoujo"
+      ],
+      "h": 3302,
+      "i": "55a19e4f719a1609004ad21c",
+      "im": "bc/bcafa1d58dbd2dd91c7d630df9ada58d5cab213ea9a435dc9092449d.jpg",
+      "ld": 1436715136.0,
+      "s": 1,
+      "t": "Oooku"
+    },
+    {
+      "a": "psi",
+      "c": [],
+      "h": 130,
+      "i": "55aad00c719a166dc580b48b",
+      "im": null,
+      "ld": 1437321922.0,
+      "s": 1,
+      "t": "PSI"
+    },
+    {
+      "a": "chain-chronicle-crimson",
+      "c": [
+        "Shounen"
+      ],
+      "h": 1248,
+      "i": "55b7ff17719a164d0f778f64",
+      "im": "d6/d68093dbeccad14db0aa8cf84570d209f32020b64dfcc29997c684d0.jpg",
+      "ld": 1438195947.0,
+      "s": 1,
+      "t": "Chain Chronicle Crimson"
+    },
+    {
+      "a": "guarding",
+      "c": [
+        "Romance",
+        "Shounen",
+        "Supernatural"
+      ],
+      "h": 3172,
+      "i": "55948727719a1636d8dc801e",
+      "im": "f3/f3d53aa250c117aa1346e302cca2de5dbb42741d7a18d9d469aee37b.jpg",
+      "ld": 1438305617.0,
+      "s": 1,
+      "t": "Guarding"
+    },
+    {
+      "a": "death-of-a-school",
+      "c": [
+        "Comedy",
+        "Fantasy",
+        "Psychological",
+        "School Life",
+        "Shounen"
+      ],
+      "h": 0,
+      "i": "55a1995b719a1609004accd5",
+      "im": "1d/1d0551ff188c1afb460f39f41640407abbeb94bc2d2f9d9185267d85.png",
+      "s": 2,
+      "t": "Death of a School"
+    },
+    {
+      "a": "hive",
+      "c": [
+        "Action",
+        "Horror",
+        "Mature",
+        "Psychological",
+        "Sci-fi",
+        "Seinen"
+      ],
+      "h": 63351,
+      "i": "537238ff45b9ef5a0b1d21ad",
+      "im": "63/6365e62b44fdfb594b739da8b8d7b6edb0fcbfa3fabfb3f353530144.jpg",
+      "ld": 1436836602.0,
+      "s": 1,
+      "t": "Hive"
+    },
+    {
+      "a": "tsuki-e-no-hashigo",
+      "c": [
+        "Fantasy",
+        "Romance",
+        "Shoujo"
+      ],
+      "h": 0,
+      "i": "55a1a168719a1609004ad57b",
+      "im": "59/59cb066c0335ebd61296a893f237482612302bb295a8af9dbbacc67b.png",
+      "s": 2,
+      "t": "Tsuki e no Hashigo"
+    },
+    {
+      "a": "kreuz",
+      "c": [
+        "Drama",
+        "Psychological",
+        "Romance",
+        "School Life",
+        "Tragedy",
+        "Yaoi"
+      ],
+      "h": 650,
+      "i": "55a19c81719a1609004ad02b",
+      "im": "2c/2c6fb3fc67c2bb8cdd69b272f518a5cd576e200159ff919b54c7e5e1.jpg",
+      "ld": 1436702330.0,
+      "s": 2,
+      "t": "Kreuz"
+    },
+    {
+      "a": "uchouten-kazoku",
+      "c": [
+        "Josei",
+        "Seinen"
+      ],
+      "h": 0,
+      "i": "53723be245b9ef5a0b1d27cf",
+      "im": "a7/a7e2a38af31f3304a6b54a44d98af5fa21d06c5e830be54d02c38609.jpg",
+      "s": 1,
+      "t": "Uchouten Kazoku"
+    },
+    {
+      "a": "tonari-no-randsel-w",
+      "c": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School Life",
+        "Shounen"
+      ],
+      "h": 2080,
+      "i": "55a1a116719a1609004ad529",
+      "im": "75/75217c547e4edb9c18b079480ed11c4197adb7d0edaac867c24fa698.jpg",
+      "ld": 1436733257.0,
+      "s": 2,
+      "t": "Tonari no Randsel W"
+    },
+    {
+      "a": "da-yuan-shen",
+      "c": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "h": 4498,
+      "i": "557815f2719a1685e77b4155",
+      "im": "ec/ec3d9437a911ac9e94241830c0dfbdbdb47a895a0317798e407ab141.jpg",
+      "ld": 1437597482.0,
+      "s": 1,
+      "t": "Da Yuan Shen"
+    },
+    {
+      "a": "the-promised-finger",
+      "c": [
+        "Drama",
+        "Historical"
+      ],
+      "h": 0,
+      "i": "55a1a0db719a1609004ad4e3",
+      "im": "0e/0ea606792996580f28374d66034bb6d416cdebdbde207c78b164fdd4.png",
+      "s": 2,
+      "t": "The Promised Finger"
+    },
+    {
+      "a": "exit",
+      "c": [
+        "Drama",
+        "Josei"
+      ],
+      "h": 260,
+      "i": "55a199b8719a1609004acd3b",
+      "im": "b4/b4ba711a39757dacfaf50fca575de9e0ed03100d01a6baad6f307750.jpg",
+      "ld": 1436681920.0,
+      "s": 2,
+      "t": "Exit"
+    },
+    {
+      "a": "philosophia",
+      "c": [
+        "Drama",
+        "Slice of Life",
+        "Tragedy"
+      ],
+      "h": 1508,
+      "i": "53723aa645b9ef5a0b1d251f",
+      "im": "af/af79fb5deade8ac2f4466a8603577700ec27479a3c59085b18e77158.jpg",
+      "ld": 1433019311.0,
+      "s": 2,
+      "t": "Philosophia"
+    },
+    {
+      "a": "ano-koi-no-tsuzuki",
+      "c": [
+        "Drama",
+        "Romance",
+        "Yaoi"
+      ],
+      "h": 0,
+      "i": "55a19851719a1609004acba6",
+      "im": "85/85788d1fc8c32fab8c0872c889a5b533900741d1b6ba705609fe7fbd.png",
+      "s": 2,
+      "t": "Ano Koi no Tsuzuki"
+    },
+    {
+      "a": "asao-san-to-kurata-kun",
+      "c": [
+        "Comedy",
+        "Shounen"
+      ],
+      "h": 234,
+      "i": "541aabac45b9ef49009d698a",
+      "im": "58/585f7722a9fdb644e456697cb8ace8544ead185cfb5b407a24eaf834.png",
+      "ld": 1435266131.0,
+      "s": 2,
+      "t": "Asao-san to Kurata-kun"
+    },
+    {
+      "a": "futaribeya",
+      "c": [
+        "Comedy",
+        "Josei",
+        "School Life",
+        "Slice of Life"
+      ],
+      "h": 546,
+      "i": "55660a6e719a1630dc3a6568",
+      "im": "49/49058e2aeab97f5f45c9f92b4c45531354f75ddf5a456f2522922efb.jpg",
+      "ld": 1432765959.0,
+      "s": 1,
+      "t": "Futaribeya"
+    },
+    {
+      "a": "mousugu-shinu-hito-haruse-hiroki",
+      "c": [
+        "Drama",
+        "Harem",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Romance",
+        "Seinen",
+        "Tragedy"
+      ],
+      "h": 5880,
+      "i": "544ae3b545b9efb061505ad6",
+      "im": "5d/5d9ebb64dcf9b3d0b1d12932d708a33615fa16c32f3c8c812880952b.jpg",
+      "ld": 1436709719.0,
+      "s": 2,
+      "t": "Mousugu Shinu Hito (HARUSE Hiroki)"
+    },
+    {
+      "a": "wolf-amp-mary",
+      "c": [
+        "Comedy",
+        "Drama",
+        "Mature",
+        "Psychological",
+        "Seinen"
+      ],
+      "h": 592,
+      "i": "544ae4c445b9efb061505d2d",
+      "im": "57/572651b1416813a088775149950308e0a9270de1e76998db9fcf99d1.jpg",
+      "ld": 1414337576.0,
+      "s": 2,
+      "t": "Wolf &amp; Mary"
+    },
+    {
+      "a": "gunner",
+      "c": [
+        "Action",
+        "Adventure",
+        "Historical",
+        "Martial Arts",
+        "Shounen"
+      ],
+      "h": 1560,
+      "i": "544ae2eb45b9efb061505913",
+      "im": "cd/cd068f3227b9787788e0c77da71c0ae8ab2bdba2147ae3d30c280fc9.jpg",
+      "ld": 1438806377.0,
+      "s": 1,
+      "t": "Gunner"
+    },
+    {
+      "a": "nocturne",
+      "c": [
+        "Seinen"
+      ],
+      "h": 3068,
+      "i": "55a19dff719a1609004ad1c1",
+      "im": "8a/8a4eb65e6ae99764fabc75e20b05a86c9d0b5eca89e2bd28796797a2.png",
+      "ld": 1438400708.0,
+      "s": 2,
+      "t": "Nocturne"
+    },
+    {
+      "a": "yoshihime-to-ushio",
+      "c": [
+        "Drama",
+        "Historical",
+        "Shoujo"
+      ],
+      "h": 0,
+      "i": "558496f5719a1647887f3136",
+      "im": "20/2042bd47ed15fbf0191189e3e574d2a4daf0b032eb2d985683cc7346.jpg",
+      "s": 2,
+      "t": "Yoshihime to Ushio"
+    },
+    {
+      "a": "crimson-skies",
+      "c": [
+        "Drama",
+        "Mystery"
+      ],
+      "h": 936,
+      "i": "55a19930719a1609004acca6",
+      "im": "1c/1c9dfbdfb0f21324ea8787db0dbc1b34fc6c6c0f02dcb1c85ba98ffe.jpg",
+      "ld": 1437438284.0,
+      "s": 1,
+      "t": "Crimson Skies"
+    },
+    {
+      "a": "4-cut-hero",
+      "c": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Shounen"
+      ],
+      "h": 6032,
+      "i": "55b0eebf719a160a9eb13f69",
+      "im": "29/293008e1b71609b42226bd6c44442fc0cf9bbc825c7b65b88b69fc9a.png",
+      "ld": 1439241010.0,
+      "s": 1,
+      "t": "4 Cut Hero"
+    },
+    {
+      "a": "subtle-disaster",
+      "c": [
+        "Drama"
+      ],
+      "h": 884,
+      "i": "54b7f84045b9efc6c41fa7c9",
+      "im": "39/3977d227a69511cf0b975a7c6d9bd42ea6a51c991de580b9325d7aa7.jpg",
+      "ld": 1436727732.0,
+      "s": 1,
+      "t": "Subtle Disaster"
+    },
+    {
+      "a": "usurai-ni-saku",
+      "c": [
+        "Drama",
+        "Historical",
+        "Romance",
+        "Shoujo",
+        "Tragedy"
+      ],
+      "h": 0,
+      "i": "55a1a19a719a1609004ad5b1",
+      "im": "e9/e9d768d7eb8376f7bf247cd484d511ab0ce449d95314b0875fbe210a.png",
+      "s": 2,
+      "t": "Usurai ni Saku"
+    },
+    {
+      "a": "sisterism",
+      "c": [
+        "Comedy",
+        "Slice of Life",
+        "Yuri"
+      ],
+      "h": 260,
+      "i": "55a1a009719a1609004ad3f6",
+      "im": "40/40db1269c145b1bdd2e93bcf40a4c31c767b56db6ab1ef81c46365c5.jpg",
+      "ld": 1436725655.0,
+      "s": 2,
+      "t": "Sisterism"
+    },
+    {
+      "a": "suki-ni-natta-yo",
+      "c": [
+        "Romance",
+        "School Life",
+        "Shoujo"
+      ],
+      "h": 26,
+      "i": "53723b5445b9ef5a0b1d269e",
+      "im": "9e/9ef021c3cbbf52ed825c580d262f09a392865bf7f73c70bf3f66936e.jpg",
+      "ld": 1414308734.0,
+      "s": 2,
+      "t": "Suki ni Natta yo"
+    },
+    {
+      "a": "ore-yome.---ore-no-yome-ni-nare-yo",
+      "c": [
+        "Romance",
+        "Shoujo"
+      ],
+      "h": 1066,
+      "i": "555d1a71719a1602e885900d",
+      "im": "52/5206118cee8b147f5abb11864628e2d4e1a9e41a9be480b73f5ba422.jpg",
+      "ld": 1432681135.0,
+      "s": 1,
+      "t": "Ore Yome. - Ore no Yome ni Nare yo"
+    },
+    {
+      "a": "bloomer-blue-maniacs",
+      "c": [
+        "Comedy",
+        "School Life"
+      ],
+      "h": 0,
+      "i": "55a198b7719a1609004acc18",
+      "im": "7d/7d12ec144dfe1bf1b73582aadc6b8091247aef14b78d3a8d314f25f9.png",
+      "s": 2,
+      "t": "Bloomer Blue Maniacs"
+    },
+    {
+      "a": "hoshikuzu-drop",
+      "c": [
+        "Comedy",
+        "Romance",
+        "School Life",
+        "Shoujo"
+      ],
+      "h": 1014,
+      "i": "55742009719a1628c1096fb6",
+      "im": "53/53f6c3a8e40eca939b0cb27cdee156c5ec83785a53febbd03c6e4eb6.jpg",
+      "ld": 1437561977.0,
+      "s": 1,
+      "t": "Hoshikuzu Drop"
+    }
+  ],
+  "page": 0,
+  "start": 0,
+  "total": 16699
+}
