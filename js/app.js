@@ -19,11 +19,20 @@ angular.module('mangaApp', ['ngRoute', 'ngResource'])
 			})
 			.when('/:anchor', {
 				controller : 'InfoCtrl',
-				templateUrl : '/partials/info.html'
+				templateUrl : '/partials/mangainfo.html'
 			})
 	}])
 	.factory('Manga', ['$resource', function($http){
 		return $http('https://www.mangaeden.com/api/list/0/?p=0&l=50') 
+	}])
+	.directive('dateago', ['$filter', function($filter){
+		return {
+			restrict : 'A',
+			link : function(scope, element, attrs){ 
+				var date = new Date(attrs.ts*1000); 
+				element.text($filter('date')(date))
+			}
+		}
 	}])
 	.controller('MainCtrl', ['$scope', 'Manga', function($scope, Manga){
 		$scope.allManga = [];
@@ -53,12 +62,14 @@ angular.module('mangaApp', ['ngRoute', 'ngResource'])
 		})
 	}])
 	.controller('LatestCtrl', ['$scope', function($scope){
-		$scope.mangaList = $scope.popularManga;  
+		$scope.mangaList = $scope.latestManga;  
 		$scope.$on('websiteReady', function(event, data){ 
-			$scope.mangaList = $scope.popularManga;
+			$scope.mangaList = $scope.latestManga;
 		})
 	}])
-	.controller('InfoCtrl', ['$scope', function($scope){
-		$scope.message = 'info';
-		console.log($scope.latestManga);
+	.controller('InfoCtrl', ['$scope', '$routeParams', function($scope, $routeParams){
+		$scope.mangaInfo = _.find($scope.allManga, { 'a': $routeParams.anchor });
+		$scope.$on('websiteReady', function(event, data){ 
+			$scope.mangaInfo = _.find($scope.allManga, { 'a': $routeParams.anchor }); 
+		});
 	}])

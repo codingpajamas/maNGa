@@ -1,9 +1,19 @@
-<ul>
-	<li ng-repeat="popManga in homePopularManga">{{popManga.t}}</li>
-</ul>
+<div class="col-sm-6">
+	<h4>Popular</h4>
+	<ul class="list-group">
+		<a href="/{{popManga.a}}" class="list-group-item" ng-repeat="popManga in homePopularManga">
+			<span class="badge">{{popManga.h}}</span>
+			{{popManga.t}}
+		</a>
+	</ul>
+</div>
 
-<hr/>
-
-<ul>
-	<li ng-repeat="newManga in homeLatestManga">{{newManga.t}}</li>
-</ul>
+<div class="col-sm-6">
+	<h4>Latest</h4>
+	<ul class="list-group">
+		<li class="list-group-item" ng-repeat="newManga in homeLatestManga">
+			<span class="badge" dateAgo data-ts="{{newManga.ld}}"></span> 
+			{{newManga.t}}
+		</li>
+	</ul>
+</div>
