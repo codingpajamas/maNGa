@@ -11,9 +11,9 @@
 <div class="col-sm-6">
 	<h4>Latest</h4>
 	<ul class="list-group">
-		<li class="list-group-item" ng-repeat="newManga in homeLatestManga">
+		<a href="/{{newManga.a}}" class="list-group-item" ng-repeat="newManga in homeLatestManga">
 			<span class="badge" dateAgo data-ts="{{newManga.ld}}"></span> 
 			{{newManga.t}}
-		</li>
+		</a>
 	</ul>
 </div>

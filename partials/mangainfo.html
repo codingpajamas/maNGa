@@ -1,4 +1,12 @@
 <div class="col-xs-12">
 	<h3>{{mangaDetails.title}}</h3>
 	<p>{{mangaDetails.description}}</p>
+	<br><br>
+	<h4>Chapters</h4>
+	<ul class="list-group">
+		<a class="list-group-item clearfix" href="/{{mangaDetails.alias}}/{{chapter[0]}}/1" ng-repeat="chapter in mangaDetails.chapters"> 
+			<span class="pull-left">Chapter {{chapter[0]}} : {{chapter[2]}}</span>
+			<span class="pull-right" dateago data-ts="{{chapter[1]}}"></span> 
+		</a>
+	</ul>
 </div>
