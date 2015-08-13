@@ -57,19 +57,45 @@ angular.module('mangaApp', ['ngRoute', 'ngResource'])
 	}])
 	.controller('PopularCtrl', ['$scope', function($scope){
 		$scope.mangaList = $scope.popularManga;   
-		$scope.$on('websiteReady', function(event, data){ 
-			$scope.mangaList = $scope.popularManga; 
-		})
 	}])
 	.controller('LatestCtrl', ['$scope', function($scope){
-		$scope.mangaList = $scope.latestManga;  
-		$scope.$on('websiteReady', function(event, data){ 
-			$scope.mangaList = $scope.latestManga;
-		})
+		$scope.mangaList = $scope.latestManga;   
 	}])
-	.controller('InfoCtrl', ['$scope', '$routeParams', function($scope, $routeParams){
-		$scope.mangaInfo = _.find($scope.allManga, { 'a': $routeParams.anchor });
-		$scope.$on('websiteReady', function(event, data){ 
-			$scope.mangaInfo = _.find($scope.allManga, { 'a': $routeParams.anchor }); 
-		});
+	.controller('InfoCtrl', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams){
+		$scope.mangaInfo = _.result(_.find($scope.allManga, { 'a': $routeParams.anchor }),'i');
+		$scope.mangaDetails = []; 
+
+		$http.get('https://www.mangaeden.com/api/manga/'+$scope.mangaInfo)
+			.then(function(response){
+				$scope.mangaDetails = response.data;  
+			}, function(response){
+
+			}) 
 	}])
+
+
+
+
+
+
+
+/*
+.controller('MainCtrl', ['$scope', 'Manga', function($scope, Manga){
+	$scope.allManga = [];
+	$scope.popularManga = [];
+	$scope.latestManga = []; 
+
+	Manga.get({}, function(manga){
+		$scope.allManga = _.sortBy(manga.manga, 'a');
+		$scope.popularManga = _.sortByOrder(manga.manga, ['h'], ['desc']);
+		$scope.latestManga = _.sortByOrder(_.filter(manga.manga, 'ld'), ['ld'], ['desc']);  
+		$scope.$broadcast('websiteReady', true); 
+	}); 
+}])
+.controller('LatestCtrl', ['$scope', function($scope){
+	$scope.mangaList = $scope.latestManga;  
+	$scope.$on('websiteReady', function(event, data){ 
+		$scope.mangaList = $scope.latestManga;
+	})
+}])
+*/
